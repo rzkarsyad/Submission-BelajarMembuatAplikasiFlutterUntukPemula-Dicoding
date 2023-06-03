@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+[cariKos.webm](https://github.com/rzkarsyad/Submission-BelajarMembuatAplikasiFlutterUntukPemula-Dicoding/assets/62179572/7648eb6c-e0ad-4549-b3d4-92188240b14c)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
